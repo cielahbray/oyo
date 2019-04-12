@@ -1,15 +1,9 @@
-## KK & KTP Generator
-# Command Install For Termux / Linux (pc)
+## OYO REGISTER
+# Command Install For Termux / Linux / MAC
 ```
 $ pkg install php
 $ pkg install git
-$ git clone https://github.com/cielahbray/kkktp
+$ git clone https://github.com/cielahbray/oyo
 $ cd kkktp
 $ ls
-$ php kkktp.php
-```
-# Autor
-Greyanonymous  
-
-# Spesial Thank
-Indonesian Security || Indoxploit
+$ php oyo.php
